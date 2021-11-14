@@ -34,3 +34,10 @@ Data from web scrapping, spreadsheets, and web scrapping software will be cleane
 * in spreadsheets the find and replace method was used for further cleaning our data 
 * A total of 4 spreadsheets and dataframes were worked on which are (i) Crude oil Prices, (ii) ZAR-USD exchange rate (iii) Total Petrol Price and (iv) Petrol Price breakdown which will followed the processes above of cleaning.
 * These datasets were all merged to one clean, formatted and ready to use dataset called dataframe_v..
+
+
+### 3. Data Analysis 
+This is my favourite part about big data, the part where you let yoour program do most of the job for you by few clicks and code of lines. For this part to be successful the data had to be cleaned as per above data cleaning process to a more usuable dataset. Excel Pivot tables, Power BI and Python pandas were used for the analysis of our data. The analysis of our data was aimed at answering the questions we had tabled earlier. In this stage of the project, we aim to visualize and identify patterns from our data to be able to answer our questions. The main aim for the analyse of our data is to answer questions and identify patterns. The goal of analysis is also to identify relationships within data so we can accurately answer the questions we asked ealier. Tools used where Spreadsheets and Python Pandas:
+#### Spreadsheet
+* Pivot tables -> we used pivot tables to organize, filter and sort our data for some visualization. Making use of the Min, Max and Average furmulas. Pivot tables allows us to view data in multiple way to find insights and trends to our questions. The pivot tables allowed us to see the breakdown in fuel price and other related insights.
+* Python Pandas -> The Pandas library in python was used to calculate statistical summary of our data, vizualization our data and later apply the linear regression to our data. In conjuctions with matplotlib, the visualization were carried on all data sets for better insights on our questions and data. 
